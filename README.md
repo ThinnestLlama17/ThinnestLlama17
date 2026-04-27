@@ -1,10 +1,11 @@
 ### 👋 Hi there! I’m Cesar  
 
--  I’m passionate about **Artificial Intelligence** and love working with **C**, **Go**, and **Rust**, exploring how algorithms can solve real-world problems.  
--  I’m currently learning **Haskell**, **Data structures**, **algorithmics**, **Kotlin** and **Programming Logic** to strengthen my foundations as a software engineer.  
--  I’m looking to collaborate on **Open Source Projects**, especially those related to **AI** and **data-driven applications**.  
--  You can reach me at **subarutard17@gmail.com** or on Discord as **coolestpythondeveloper**.  
--  Fun fact: I’m studying **Software Engineering**, and I absolutely love **mathematics**  
+-  I am a Software Engineering student with a strong interest in **Artificial Intelligence** and its application to real-world problems through efficient algorithms.
+-  I have experience working with **C**, **C++**, **Go**, and **Java**, with a focus on performance, low-level programming, and system-oriented development.
+-  I am currently expanding my knowledge in **Data Structures and Algorithms**, **Backend's Frameworks** while also studying Parallel Computing, Virtualization, and system-level concepts.
+-  I am interested in contributing to **Open Source Projects**, particularly those related to **Artificial Intelligence** and **data-driven systems**.
+-  Contact: CesarOrtiz17@proton.me | Discord: coolestpythondeveloper
+-  Additional interests include **mathematics** and continuous learning in advanced computing topics.
 
 ---
 
